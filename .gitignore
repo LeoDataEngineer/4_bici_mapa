@@ -1,0 +1,5 @@
+config.py
+__pycache__/
+/gcp-venv
+.qodo
+clave_gcp.json
